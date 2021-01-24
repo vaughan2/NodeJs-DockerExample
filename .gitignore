@@ -1,3 +1,4 @@
 Notes.txt
 terraform.tf
-*/node_modules/*
+node_modules/
+.terraform/
